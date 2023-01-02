@@ -10,9 +10,9 @@ const About = () => {
         <h1>About Us</h1>
 
         <article>
-          <h4>MBA Burger Wala</h4>
+          <h4>Street@69</h4>
           <p>
-            We are MBA Burger Wala. The place for most tasty burgers on the
+            We are at Street@69. The place for most tasty food on the
             enitre earth.
           </p>
 
@@ -35,7 +35,7 @@ const About = () => {
             </div>
 
             <p>
-              I am Dipesh Kumar, the founder of MBA Burger Wala. Affiliated to
+              I am Dipesh Kumar, the founder of Street@69. Affiliated to
               God Taste...
             </p>
           </article>
