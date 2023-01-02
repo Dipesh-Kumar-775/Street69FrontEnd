@@ -10,7 +10,7 @@ const About = () => {
         <h1>About Us</h1>
 
         <article>
-          <h2>Street@69</h2>
+          <h4>Street@69</h4>
           <p>
             We are at Street@69. The place for most tasty food on the
             enitre earth.
