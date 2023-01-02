@@ -20,7 +20,7 @@ const Founder = () => {
         <h3>Dipesh Kumar</h3>
 
         <p>
-          Hey, Everyone I am Dipesh Kumar, the founder of MBA Burger Wala.
+          Hey, Everyone I am Dipesh Kumar, the founder of Street69.
           <br />
           Our aim is to create the most tasty burger on planet.
         </p>
